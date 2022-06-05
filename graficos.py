@@ -1,5 +1,3 @@
-#Importação das bibliotecas
-
 from pandas import read_csv
 from dash import Dash, html, dcc, Input, Output
 import plotly.express as px
